@@ -2,7 +2,7 @@
   "Author": "attick, daemitus, alymphocyte, grammernatzi",
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.3.9.0",
+  "AssemblyVersion": "1.4.0.0",
   "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
@@ -11,5 +11,5 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-  "Changelog": "1.3.9.0:\r\n* Pre-release version for Dalamud staging for 6.2. Expect issues, either from the plugin itself, or Dalamud. \r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix."
+  "Changelog": "1.4.0.0:\r\n* 6.2 support (obviously)\r\n* Jump to Mirage Dive re-added, Minor Arcana to Crown Play removed.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix."
 }
