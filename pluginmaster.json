@@ -4,9 +4,9 @@
         "Name": "XIV Combo Expandedest",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "Changelog": "1.4.0.0:\r\n* 6.2 support (obviously)\r\n* Jump to Mirage Dive re-added, Minor Arcana to Crown Play removed.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
+        "Changelog": "1.4.0.3:\r\n* Sidewinder to Pitch Perfect added.\r\n* Minor dancer bug fixed where Flourish to Fan Dance 3 was toggled by the Fan Dance 4 version instead.\r\n* Red Mage Verproc into Jolt Plus Option added.\r\n* Drill to Bioblaster added.\r\n  \r\n1.4.0.0:\r\n* 6.2 support (obviously)\r\n* Jump to Mirage Dive re-added, Minor Arcana to Crown Play removed.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.0.2",
+        "AssemblyVersion": "1.4.0.3",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661632277"
+        "LastUpdate": "1663575993"
     }
 ]
