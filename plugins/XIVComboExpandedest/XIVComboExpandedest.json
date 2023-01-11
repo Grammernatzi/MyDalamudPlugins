@@ -2,14 +2,17 @@
   "Author": "attick, daemitus, alymphocyte, grammernatzi",
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.4.0.6",
+  "AssemblyVersion": "1.4.1.0",
   "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-  "Changelog": "1.4.0.3:\r\n* Sidewinder to Pitch Perfect added.\r\n* Minor dancer bug fixed where Flourish to Fan Dance 3 was toggled by the Fan Dance 4 version instead.\r\n* Red Mage Verproc into Jolt Plus Option added.\r\n* Drill to Bioblaster added.\r\n  \r\n1.4.0.0:\r\n* 6.2 support (obviously)\r\n* Jump to Mirage Dive re-added, Minor Arcana to Crown Play removed.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix."
+  "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
+  "AcceptsFeedback": true
 }
