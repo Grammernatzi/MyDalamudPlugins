@@ -6,7 +6,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\n1.4.1.2:\r\n* Paladin Confiteor Feature returned (but it works differently and much more simply).\r\n* Paladin Royal Authority to Holy Spirit Feature added.\r\n\r\n1.4.1.6:\r\n* Dropping Atonement is now no longer considered a damage gain. Therefore, Royal Authority to Atonement is back on the menu.\r\n\r\n1.4.1.8:\r\n* Royal Authority to Holy Spirit decoupled from combo (still works with it, of course).\r\n* Shield Lob to Holy Spirit added.\r\n* Fight or Flight to Requiescat added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.1.8",
+        "AssemblyVersion": "1.4.1.9",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673909243"
+        "LastUpdate": "1674079124"
     }
 ]
