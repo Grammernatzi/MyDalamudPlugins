@@ -9,6 +9,7 @@
         "AssemblyVersion": "1.4.2.2",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
+        "Tags": null,
         "DalamudApiLevel": 9,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
@@ -19,6 +20,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686367097"
+        "LastUpdate": "1696404500"
     }
 ]
