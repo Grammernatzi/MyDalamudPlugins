@@ -2,11 +2,11 @@
   "Author": "attick, daemitus, alymphocyte, grammernatzi",
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.4.2.5",
+  "AssemblyVersion": "1.5.0.0",
   "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
@@ -14,6 +14,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-  "Changelog": "1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\n1.4.2.0:\r\n* Updated for 6.4.\r\n* Removed Fairy Feature Selene Option. All hail healing Carbuncle.\r\n\r\n1.4.2.2:\r\n* Storm's Eye Onslaught Replacement Feature added.\r\n* The Blackest Night to Oblation Feature added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
+  "Changelog": "1.5:\r\n    * Wayyy too much. Please check the commits on the github, I left changelogs for each job there.",
   "AcceptsFeedback": true
 }
