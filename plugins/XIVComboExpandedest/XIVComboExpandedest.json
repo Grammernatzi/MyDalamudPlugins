@@ -2,7 +2,7 @@
   "Author": "attick, daemitus, alymphocyte, grammernatzi",
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.5.0.66",
+  "AssemblyVersion": "1.5.0.67",
   "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
@@ -14,6 +14,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-  "Changelog": "1.5.0.61:\r\n    * Lucid Dreaming Reminders now have a configurable MP threshold, as well as a configurable cooldown remaining offset where they stop replacing the cooldown.\r\n    \r\n    1.5.0.60:\r\n    * Combos to Saber Dance during Devilment feature added.\r\n    * Some other stuff added to Dancer, too. Maybe.\r\n    * Phlegma to Psyche added.\r\n    \r\n    1.5.0.59:\r\n    * Isle Sprint feature added.\r\n    \r\n    1.5.0.53:\r\n    * Reaving Steel added from regular XIVComboExpanded. Maybe something else, too? Tis a secret.\r\n    * Hooking Hooksets and Chummy Cast added.\r\n    \r\n    1.5.0.51:\r\n    * Chaotic Glide added.\r\n    \r\n    1.5.0.49:\r\n    * Standard Step into Technical Step added.\r\n    \r\n    1.5.0.41:\r\n    * Viper features added. Please look forward to it (happening right now).",
+  "Changelog": "1.5.0.67:\r\n    * Blizzard 3 & 2 to Flare Star feature added.\r\n    \r\n    1.5.0.61:\r\n    * Lucid Dreaming Reminders now have a configurable MP threshold, as well as a configurable cooldown remaining offset where they stop replacing the cooldown.\r\n    \r\n    1.5.0.60:\r\n    * Combos to Saber Dance during Devilment feature added.\r\n    * Some other stuff added to Dancer, too. Maybe.\r\n    * Phlegma to Psyche added.\r\n    \r\n    1.5.0.59:\r\n    * Isle Sprint feature added.\r\n    \r\n    1.5.0.53:\r\n    * Reaving Steel added from regular XIVComboExpanded. Maybe something else, too? Tis a secret.\r\n    * Hooking Hooksets and Chummy Cast added.\r\n    \r\n    1.5.0.51:\r\n    * Chaotic Glide added.\r\n    \r\n    1.5.0.49:\r\n    * Standard Step into Technical Step added.\r\n    \r\n    1.5.0.41:\r\n    * Viper features added. Please look forward to it (happening right now).",
   "AcceptsFeedback": true
 }
